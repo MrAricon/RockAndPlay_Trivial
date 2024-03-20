@@ -1,0 +1,27 @@
+var group___ocilib_c_api_datetimes =
+[
+    [ "OCI_DateCreate", "group___ocilib_c_api_datetimes.html#ga26123a85d5b36fead616acffbf5ef145", null ],
+    [ "OCI_DateFree", "group___ocilib_c_api_datetimes.html#gab6c9e4fd52928f53414a338846dbe027", null ],
+    [ "OCI_DateArrayCreate", "group___ocilib_c_api_datetimes.html#ga5ece76551a739a4782ff3a32f42f1a92", null ],
+    [ "OCI_DateArrayFree", "group___ocilib_c_api_datetimes.html#gadf2acb934aa8435c13c2fe72b9c71905", null ],
+    [ "OCI_DateAddDays", "group___ocilib_c_api_datetimes.html#gab9e19be2b20d1457ada24abfdf98f7bd", null ],
+    [ "OCI_DateAddMonths", "group___ocilib_c_api_datetimes.html#gab71f2c36cd1ada708a83805255d9ade8", null ],
+    [ "OCI_DateAssign", "group___ocilib_c_api_datetimes.html#ga89fed5c82e7543f8a7f6fce78b96c67d", null ],
+    [ "OCI_DateCheck", "group___ocilib_c_api_datetimes.html#gade4879e7474461bb9861a96ceecec976", null ],
+    [ "OCI_DateCompare", "group___ocilib_c_api_datetimes.html#ga38b931241ca62e619660f014428771bd", null ],
+    [ "OCI_DateDaysBetween", "group___ocilib_c_api_datetimes.html#ga88e30a58a74b013bab67aa162a18c493", null ],
+    [ "OCI_DateFromText", "group___ocilib_c_api_datetimes.html#ga182c1474813b313af0678200f18500d1", null ],
+    [ "OCI_DateToText", "group___ocilib_c_api_datetimes.html#gad4f7e216b2e632e6e0e73d3820d3649a", null ],
+    [ "OCI_DateGetDate", "group___ocilib_c_api_datetimes.html#ga1e00e16b2c7d3f2a941d7afcb615ba8c", null ],
+    [ "OCI_DateGetTime", "group___ocilib_c_api_datetimes.html#gaf6f4c18289823211a63c41dcfd36f0ec", null ],
+    [ "OCI_DateGetDateTime", "group___ocilib_c_api_datetimes.html#gacdeddd9118a561a10d2c99e660b5ed1e", null ],
+    [ "OCI_DateSetDate", "group___ocilib_c_api_datetimes.html#gab01bacccd03e2f77c06875caee98f9d4", null ],
+    [ "OCI_DateSetTime", "group___ocilib_c_api_datetimes.html#gaa0b40540236cc36743723ff684ddd0ba", null ],
+    [ "OCI_DateSetDateTime", "group___ocilib_c_api_datetimes.html#ga18d9dd6ae277f14f41badc78f816df31", null ],
+    [ "OCI_DateLastDay", "group___ocilib_c_api_datetimes.html#ga5ac095109856a0cda553742d81488378", null ],
+    [ "OCI_DateNextDay", "group___ocilib_c_api_datetimes.html#gae4507c8981b4fb3eb10b08fd3d7f12a9", null ],
+    [ "OCI_DateSysDate", "group___ocilib_c_api_datetimes.html#gae73613cf6173243848ddfd3295b448c4", null ],
+    [ "OCI_DateZoneToZone", "group___ocilib_c_api_datetimes.html#gac206300a0c06585505559cf3fe2c5418", null ],
+    [ "OCI_DateToCTime", "group___ocilib_c_api_datetimes.html#gab754b5cf18cf5f1e1710308657b2635d", null ],
+    [ "OCI_DateFromCTime", "group___ocilib_c_api_datetimes.html#ga39b71fcffed82bfdf4f9a18d1db252fd", null ]
+];

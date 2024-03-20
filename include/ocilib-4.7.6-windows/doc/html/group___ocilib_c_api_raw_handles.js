@@ -1,0 +1,25 @@
+var group___ocilib_c_api_raw_handles =
+[
+    [ "OCI_HandleGetEnvironment", "group___ocilib_c_api_raw_handles.html#ga2f61ec886ca0903d9cd7ea3b10011aed", null ],
+    [ "OCI_HandleGetContext", "group___ocilib_c_api_raw_handles.html#ga4783fe5c3f92d0359400cd588ee835a1", null ],
+    [ "OCI_HandleGetServer", "group___ocilib_c_api_raw_handles.html#ga4b85f81f2d43d0fa6cc9acf6f7fb947c", null ],
+    [ "OCI_HandleGetError", "group___ocilib_c_api_raw_handles.html#ga540a84aabfc2bd3346f69aab84f2381f", null ],
+    [ "OCI_HandleGetSession", "group___ocilib_c_api_raw_handles.html#ga7f1e98fbbf432033854431f9239d5e9f", null ],
+    [ "OCI_HandleGetTransaction", "group___ocilib_c_api_raw_handles.html#gae359674b67dabd4e69177224b527eb29", null ],
+    [ "OCI_HandleGetStatement", "group___ocilib_c_api_raw_handles.html#ga79cc4f4c363b3f1cced0e874d572168a", null ],
+    [ "OCI_HandleGetLob", "group___ocilib_c_api_raw_handles.html#gae4d98f4294d9aa7198df25120ae2405b", null ],
+    [ "OCI_HandleGetFile", "group___ocilib_c_api_raw_handles.html#gab6784608da14a7e09932dcec71e1fe7c", null ],
+    [ "OCI_HandleGetDate", "group___ocilib_c_api_raw_handles.html#gaa99a6e08909c1d2818f1c8dbbf945547", null ],
+    [ "OCI_HandleGetTimestamp", "group___ocilib_c_api_raw_handles.html#gab40870860068a818836b00cdbfb94fde", null ],
+    [ "OCI_HandleGetInterval", "group___ocilib_c_api_raw_handles.html#ga7eb7312490fa38a58899dc09ba1088fe", null ],
+    [ "OCI_HandleGetObject", "group___ocilib_c_api_raw_handles.html#gad4ea5c4175505c174cbe452621c51643", null ],
+    [ "OCI_HandleGetColl", "group___ocilib_c_api_raw_handles.html#gaef72916da43fb3836554a9b0cb9070cf", null ],
+    [ "OCI_HandleGetRef", "group___ocilib_c_api_raw_handles.html#ga34cbb1c327910e8bf31d19197f84bdc2", null ],
+    [ "OCI_HandleGetMutex", "group___ocilib_c_api_raw_handles.html#ga71b2240a5c4d5d44d3b34f72a8df37c9", null ],
+    [ "OCI_HandleGetThreadID", "group___ocilib_c_api_raw_handles.html#ga081836f9fcd1610340f3c93e9446a748", null ],
+    [ "OCI_HandleGetThread", "group___ocilib_c_api_raw_handles.html#ga20eab50192d611e41d5aab7cdf696d29", null ],
+    [ "OCI_HandleGetDirPathCtx", "group___ocilib_c_api_raw_handles.html#gac18ae63b26cf398247347648f043ac5c", null ],
+    [ "OCI_HandleGetDirPathColArray", "group___ocilib_c_api_raw_handles.html#ga30e7ff08212f7a7fbd32303d2b1909a7", null ],
+    [ "OCI_HandleGetDirPathStream", "group___ocilib_c_api_raw_handles.html#gae29987216dbc6da0cc6e5badd1e68754", null ],
+    [ "OCI_HandleGetSubscription", "group___ocilib_c_api_raw_handles.html#gaf34176334959c3415c18f649bdfe946a", null ]
+];
