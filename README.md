@@ -10,11 +10,11 @@ Este es un proyecto de trivial desarrollado en C++ que se conecta a una base de 
 - Oracle Instant Client: La aplicación utiliza Oracle Instant Client para establecer la conexión con la base de datos. Asegúrese de tenerlo instalado en su sistema.
 - Compilador de C++: Se necesita un compilador de C++ compatible para compilar y ejecutar el proyecto.
 ## Configuración
-Para poder realizar la conexion a la base de datos es necessario tener en el directorio de ejecución onracle instant client
+Para poder realizar la conexión a la base de datos es necesario tener en el directorio de ejecución Oracle Instant Client
 
 ## Autores
 - [Pau Cano](https://github.com/MrAricon)
 - [Pol Miret](https://github.com/miripower)
-- [Adam ortiz](https://github.com/aadam-oc)
+- [Adam Ortiz](https://github.com/aadam-oc)
 - [Marc Gili]()
-- [Victor Cepeda]()
+- [Victor Cepeda](https://github.com/vicear)
